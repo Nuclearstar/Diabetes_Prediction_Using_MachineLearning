@@ -30,17 +30,17 @@ Pima-Prediction.ipynb file has the detailed solution for Diabetes Prediction Usi
 ## How to run?
 
 - First clone the project into your local system
-`
+```
 git clone https://github.com/Nuclearstar/Diabetes_Prediction_Using_MachineLearning.git
-`
+```
 - Then change directory to this project
-`
+```
 cd Diabetes_Prediction_Using_MachineLearning
-`
+```
 - Then setup a virtual env
-`
+```
 python -m venv myenv
-`
+```
 - Then activate your virtual env
 ```
 cd myenv
@@ -53,13 +53,13 @@ cd ..
 cd ..
 ```
 - Next install all the required packages in the virtual env
-`
+```
 pip install -r requirements.txt
-`
+```
 - Now you are ready to run the program
-`
+```
 jupyter notebook
-`
+```
 
 
 This is the code repo for Pluralsight course: Understanding Machine Learning with Python
